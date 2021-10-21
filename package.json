@@ -17,7 +17,7 @@
     "@zxcvbn-ts/core": "^1.0.0-beta.0",
     "autoprefixer": "^10.2.6",
     "bootstrap": "5.1.0",
-    "codemirror": "5.62.0",
+    "codemirror": "5.63.1",
     "jquery": "3.6.0",
     "jquery-debounce-throttle": "^1.0.6-rc.0",
     "jquery-migrate": "3.3.2",
